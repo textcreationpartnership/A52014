@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The danger of division, and necessity of unity opened in a sermon preached at St. Lawrence's Church, before the election of the Lord Mayor / by Tho. Mariott ...</title>
+            <author>Mariott, Thomas, d. 1708?</author>
+         </titleStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52014</idno><idno type="EEBO-CITATION">12765765</idno>
+  <idno type="VID">93582</idno>
+  <idno type="EEBO-PROQUEST">2240974521</idno>
+  
+            <idno type="STC">Wing M716</idno>
+            <idno type="STC">ESTC R23513</idno>
+            <idno type="OCLC">12765765</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93582)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 698:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The danger of division, and necessity of unity opened in a sermon preached at St. Lawrence's Church, before the election of the Lord Mayor / by Tho. Mariott ...</title>
+                  <author>Mariott, Thomas, d. 1708?</author>
+               </titleStmt>
+               <extent>[5], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. 25.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Luke XI, 17 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="mayoral_order">
+            <pb facs="tcp:93582:1"/>
+            <opener>
+               <signed>Pilkington Mayor, &amp;c.</signed>
+            </opener>
+            <opener>
+               <dateline>
+                  <date>Lunae <hi>xxx.</hi> die Septemb. <hi>1689.</hi> Anno{que} Regni Regis &amp; Reginae <hi>WILL.</hi> &amp; <hi>MARIAE</hi> Angl. <hi>&amp;c.</hi> Primo.</date>
+               </dateline>
+            </opener>
+            <p>THis Court doth desire M<seg rend="sup">r</seg>
+               <hi>Mariott</hi> to Print his Sermon, Preach'd in S<seg rend="sup">t</seg>
+               <hi>Lawrence</hi>'s Church on <hi>Saturday</hi> last before the ELECTION of the <hi>Lord Mayor.</hi>
+            </p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Octob.</hi> 8. 1689.</date>
+               </dateline>
+               <signed>
+                  <hi>Carolus Alston,</hi> R. P. D. <hi>Hen.</hi> Episc. <hi>Lond.</hi> à Sacris.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:93582:1"/>
+            <p>THE <hi>Danger of Division,</hi> AND Necessity of Unity, OPENED IN A SERMON Preached at St. <hi>Lawrence</hi>'s Church, before the ELECTION OF THE Lord Mayor.</p>
+            <p>By <hi>THO. MARIOTT,</hi> M. A. and Rector of <hi>Little Canfield</hi> in <hi>Essex.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Bishop</hi>'s <hi>Head</hi> in St. <hi>Paul</hi>'s Church-Yard, 1689.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:93582:2"/>
+            <pb facs="tcp:93582:2"/>
+            <head>TO THE Right Honourable Sir Thomas Pilkington, K<seg rend="sup">t</seg> Lord Mayor OF THE CITY of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THis following Discourse doth chiefly tend to disswade from Division, and perswade to Peace and Ʋnity; shewing the danger of the one, and the excellency and necessity of the other: a Subject, which I thought most necessary for that occasion upon which it was preached; The unanimous consent of the Citizens, in the Election of your Lordship to be Mayor for the succeeding Year, gives me some ground
+<pb facs="tcp:93582:3"/>of hopes, that what was said was not al<g ref="char:EOLhyphen"/>together unuseful. I need not mind your Lordship (who is so well known to be a Lover of Ʋnity) that it is your Part, in that station, wherein God hath placed you, to uphold, and promote this good A<g ref="char:EOLhyphen"/>greement, what in you lies, in that great Body over which you are placed, as it seems, by the special Providence of God, for this very end and purpose. What was upon that great Solemnity preached, is now, by the Command of your Lord<g ref="char:EOLhyphen"/>ship, and the Honourable Court of Al<g ref="char:EOLhyphen"/>dermen, made publick. And that it may have some influence upon us, to breed in us a general abhorrence of Division and Dissention, and provoke all Protestants to a serious study of, and endeavour after a happy Ʋnion both in Church and State, is the earnest Prayer of,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordship's most faithful and obedient Servant, <hi>THO. MARIOTT.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:93582:3"/>
+            <head>A SERMON Preach'd at the ELECTION OF THE Lord Mayor.</head>
+            <q>
+               <bibl>
+                  <hi>LUKE xi. 17.</hi>
+               </bibl>
+               <p>But he knowing their thoughts said unto them, Eve<g ref="char:EOLhyphen"/>ry kingdom divided against it self is brought to de<g ref="char:EOLhyphen"/>solation, and an house divided against an house, falleth.</p>
+            </q>
+            <p>IN the Verses aforegoing, you have an account of a <hi>Devil,</hi> which is said to be <hi>dumb;</hi> that is, he made the person <hi>dumb,</hi> whom he had possessed.</p>
+            <p>St. <hi>Matthew</hi> saith, that this <hi>Devil</hi> was <hi>blind,</hi>
+               <note place="margin">Matth. 12.22.</note> as well as <hi>dumb, viz.</hi> because he made the party, by him possessed, so.</p>
+            <p>St. <hi>Chrysostome</hi> adds, that he was a <hi>deaf Devil</hi>
+               <pb n="2" facs="tcp:93582:4"/>too; which is not improbable, since <hi>Deafness</hi> is the natural cause of <hi>Dumbness.</hi>
+            </p>
+            <p>This Man, thus miserably afflicted, and possessed with such a <hi>dumb, blind,</hi> and <hi>deaf Spi<g ref="char:EOLhyphen"/>rit,</hi> was brought unto our Lord, (who was sent, by his Father, into the World, on pur<g ref="char:EOLhyphen"/>pose to destroy the works of the <hi>Devil</hi>) that he might be freed from this so foul a Fiend; who pitying his condition, freed him from this troublesome Guest: so that the <hi>Dumb</hi> did speak, the <hi>Blind</hi> saw, the <hi>Deaf</hi> did hear.</p>
+            <p>This notable Miracle, wrought by our Lord, produced several effects in the people.</p>
+            <p>Some of the common sort of people <hi>won<g ref="char:EOLhyphen"/>der'd,</hi> (saith St. <hi>Luke</hi>) they were amazed at it,<note place="margin">Luke 11. v. 14. Matth. 12.23.</note> (saith St. <hi>Matthew</hi>) they were in an ecstasie, as well they might: for this must needs be a just cause of astonishment, to see the <hi>Devils</hi> thus com<g ref="char:EOLhyphen"/>manded, which no humane power could effect.</p>
+            <p>Another sort there were, of the <hi>Scribes</hi> and <hi>Pharisees,</hi> who sought to eclipse the glory of this famous Miracle, wrought by our Lord. These seemed to grant,<note place="margin">v. 16.</note> that <hi>Christ</hi> indeed did many Miracles, but they would see a Sign from Heaven, such, it may be, as the <hi>Prophet</hi> shewed, when he fetch'd <hi>Fire</hi> from Heaven; or <hi>Joshua,</hi> at whose word, the <hi>Sun</hi> stood still;
+<pb n="3" facs="tcp:93582:4"/>or <hi>Moses,</hi> who fetched down <hi>Manna</hi> from Heaven, <hi>&amp;c.</hi> That they should desire a Sign, was not unreasonable, since the Law was gi<g ref="char:EOLhyphen"/>ven with Signs; and therefore it was conveni<g ref="char:EOLhyphen"/>ent there should be as full an Evidence given them, that the fulness of time was come, when that dispensation was to have an end: but that they should stand so much upon a Sign from Heaven, was very importune and im<g ref="char:EOLhyphen"/>pudent.<note place="margin">More rea<g ref="char:EOLhyphen"/>sons of this may be seen in Dr. <hi>Stillingfl. Orig. Sac. lib.</hi> 2 <hi>c.</hi> 9.</note> And therefore no wonder that our Sa<g ref="char:EOLhyphen"/>viour doth not gratifie them therein; as know<g ref="char:EOLhyphen"/>ing that they asked it meerly to tempt him, and not out of any real Desire of Satisfa<g ref="char:EOLhyphen"/>ction.</p>
+            <p>Worse than these, by far, were those other Pharisees, who, not content a little to obscure, did malitiously calumniate our Saviour, saying, <hi>That he did cast out devils by</hi>
+               <note n="*" place="margin">How they knew that the name of the chief of the Devils was <hi>Beelzebub,</hi> may be seen in <hi>Just. Mart. Qu. &amp; Resp. ad Orthod. Q.</hi> 82. 2 Kings 1.2.</note>
+               <hi>Beelzebub the chief of the devils.</hi> This <hi>Beelzebub</hi> is, by Interpretation, the God of Flies, and was <hi>the god of Ekron,</hi> as we read in the Book of the <hi>Kings. Josephus</hi> calls him <hi>the god-fly,</hi> or <hi>fly-god</hi> of the Ekronites; so called, as some think, because the Devil, in the shape of a great Fly, gave answer to them who enquired of him; others, that he was so called from the abundance of Flies which
+<pb n="4" facs="tcp:93582:5"/>followed the Sacrifices offered unto him. Whereas they say, no Flies infested the Sacrifi<g ref="char:EOLhyphen"/>ces offered to the true God: and so they take it to be a name of Reproach.<note place="margin">Selden. de Diis Syris, <hi>Syn. 2. c. 5.</hi>
+               </note> But I rather think the truth to be with them who dissent from this common opinion, and take the name to be given unto the Idol, by the Ekronites themselves: because upon sacrificing to this Idol the Flies were driven away; of which se<g ref="char:EOLhyphen"/>veral like Instances are given by the Learned <hi>Selden.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Jupiter Stercoreus, Isid. Hispa. <hi>lib. 8.</hi> Orig.</note> In the New Testament the name of this Prince of Devils is written <hi>Beelzebul,</hi> as much as <hi>Jupiter Belus,</hi> or the <hi>Dung-god.</hi>
+            </p>
+            <p>This being so, no greater Calumny could Malice have devised, than this, That <hi>the Lord Jesus, the Eternal Son of God,</hi> in our nature on the Earth, casting out Devils, should do it by the power of this filthy God, and Prince of the Devils. <hi>No virtue is so illustrious, no action so vertuous, but is subject to slander and calumny, through the malice of men.</hi>
+            </p>
+            <p>Unto this wicked slander our Saviour makes his defence, in the words of my Text; shew<g ref="char:EOLhyphen"/>ing that could not be which they objected; for then Sathan should be divided against himself, and his Kingdom brought to desolation. <hi>But be, knowing their thoughts, said unto them, Every
+<pb n="5" facs="tcp:93582:5"/>kingdom divided against it self is brought to desolation, and a house divided against a house falleth.</hi> Passing by what may be said concerning Apologies from the Context, the lawfulness of them, when, and how they are to be made, we observe two things in the words; <hi>The Omnisciency of Christ,</hi> in those words, <hi>But he knowing their thoughts:</hi> And, <hi>the danger of intestine division,</hi> in those words, <hi>Every kingdom divided against it self is brought to desolation, and an house divided against a house falleth.</hi>
+            </p>
+            <p>First, concerning the Omnisciency of Christ, <hi>And he knowing their Thoughts.</hi> That Christ is Omniscient, and knoweth all things, even the most secret Thoughts of our Hearts, is a Doctrine often taught us, in the Holy Scri<g ref="char:EOLhyphen"/>ptures; and of very great Concernment, for us to take special notice of.<note place="margin">John 2.24.25.</note> St. <hi>John,</hi> speaking of several, who believed in Christ, because of the Miracles which he did, expresly saith, <hi>That Jesus did not commit himself unto them, because he knew all men, and needed not that any should testifie of man, for he knew what was in man.</hi> This he could not have done if he had not been Omni<g ref="char:EOLhyphen"/>scient. His knowing <hi>Nathaniel</hi> to be an <hi>Israelite</hi> indeed, and his knowing of him before ever <hi>Philip</hi> called him, when he was under the Fig-tree,
+<pb n="6" facs="tcp:93582:6"/>did evidence his omnisciency. We find also (besides what is mentioned in the Text) how he doth reprove Men for their thoughts, which they had not spoken: for when he had told the man sick of the Palsie, that his Sins were forgiven him, <hi>and certain of the Scribes said within themselves, this man blasphemeth:</hi> he knew their thoughts, and reproved them for their wicked imaginations,<note place="margin">Matt. 9.2.3.4.</note> saying, <hi>Wherefore think ye evil in your hearts?</hi> By which we see, that <hi>Christ</hi> hears the words of our Hearts, as well as the words of our Mouths. Nor can any thing be plainer to this purpose, than what our Saviour saith of himself,<note place="margin">Rev. 2.23.</note>
+               <hi>I am he which searcheth the hearts and reins.</hi>
+            </p>
+            <p>From whence we infer, That <hi>Christ</hi> must needs be God as well as Man: not only a <hi>di<g ref="char:EOLhyphen"/>vine Man,</hi> acording to the <hi>Arians, Photinians,</hi> and <hi>Socinians;</hi> but <hi>God-Man.</hi> Here lies the Foun<g ref="char:EOLhyphen"/>dation of our Consolation and Salvation. If he were a mere Man, then could not his Obe<g ref="char:EOLhyphen"/>dience, active and passive, have been satisfacto<g ref="char:EOLhyphen"/>ry for us; then could not his Blood have had such virtue, as to purchase Heaven for us; then could he not have vanquished <hi>Sathan, Hell,</hi> and <hi>Death;</hi> then were it vain to believe in him: nay, not only in vain, arguing our Weakness,
+<pb n="7" facs="tcp:93582:6"/>but it would be Sin and Wickedness in us so to do: and hereby should we bring our selves under that Curse, <hi>Cursed be the Man, that trusteth in Man, and maketh flesh his Arm.</hi> This we know, That there is no way to salvation, but by Faith in the Son of God, and therefore he must needs be true God.</p>
+            <p>The meditation of this Truth, might also be pressed for the amendment of our Lives. When we perform any holy duties, let us look unto our Hearts, since we have to do with him who knows how our Hearts are affected when we are in his presence. When we are in God's House, praying, hearing, receiving the holy Sacrament, not a wandring Thought can stir within us, but it is altogether known to him.</p>
+            <p>And in the whole course of our lives, in all Places, in all Companies, where-ever we are, what-ever we do, let us always remember, that our Hearts are known to <hi>Christ</hi> our Judge. This Meditation will be very proper for you who are concerned in the great Transactions of this Day, to consider that God knows with what Hearts and Intentions you meet together; whether you aim, sincerely, at his Glory.</p>
+            <p>After the Omnisciency of <hi>Christ,</hi> our next
+<pb n="8" facs="tcp:93582:7"/>Point (and that which we are chiefly to insist upon) is, the Danger of intestine Division, in the following part of the words, <hi>Every king<g ref="char:EOLhyphen"/>dom divided against it self is brought to desolation, and an house divided against an house falleth.</hi>
+               <note n="*" place="margin">
+                  <hi>St.</hi> Amb. <hi>l. 3.</hi> de fide, ad <hi>Gratjanum</hi> Imperat. <hi>cap. 16.</hi> Quaero quomo<g ref="char:EOLhyphen"/>do regnum velint patris &amp; filii esse divisum, quum dominus dixerit, Omne regnum in seipsum dia isam, desolatur, <hi>&amp;c.</hi>
+               </note> St. <hi>Am<g ref="char:EOLhyphen"/>brose,</hi> in his book to the Emperour <hi>Gratian,</hi> concerning Faith, doth very well make use of this as an Argu<g ref="char:EOLhyphen"/>ment to confute the <hi>Arian</hi> Heresie, and to prove that the Kingdom of the Fa<g ref="char:EOLhyphen"/>ther, and the Kingdom of the Son, is one and the same, and consequently, their Power equal: <hi>for a kingdom divided against it self is brought to desolation,</hi> &amp;c. And so this part of the Text joyns issue with the former, in con<g ref="char:EOLhyphen"/>firming the Deity of the Son. But we design to speak unto these words only as showing the Danger of Division, desiring, from hence, to take advantage (what in us lies) to per<g ref="char:EOLhyphen"/>swade the Christian World to Love and U<g ref="char:EOLhyphen"/>nity.</p>
+            <p>It hath been the wont of <hi>Rhetoricians,</hi> desi<g ref="char:EOLhyphen"/>rous to shew their Art at the best advantage, to chuse out such Subjects as are not in them<g ref="char:EOLhyphen"/>selves excellent (things excellent in themselves not needing any Rhetori<g ref="char:EOLhyphen"/>cal
+<pb n="9" facs="tcp:93582:7"/>Paint to set them off) but such things as are meanly esteemed by most,<note place="margin">
+                  <hi>Cic. Parad.</hi> Nihil est tam incredibile, quod non dicendo fiat probabile; ni<g ref="char:EOLhyphen"/>hil tam horridum, tam incultum, quod non splendescat oratione, &amp; tanquam excolatur.</note> or really naught, that by their artful Colours they may set them out, and make them seem to have some excel<g ref="char:EOLhyphen"/>lency in them; hence it is, that one hath shew<g ref="char:EOLhyphen"/>ed his Art in setting forth the Praises of the grea<g ref="char:EOLhyphen"/>test Tyrant; another, in commending the most deformed <hi>Thersites:</hi> one hath shewed his Elo<g ref="char:EOLhyphen"/>quence in praising a Gnat; another in com<g ref="char:EOLhyphen"/>mending a Fly: one in praising a Quartan-Ague; another in commending Injustice: one in praising Baldness; another in commending Folly. Some have extolled Sadness above Joy: others, Imprisonment above Liberty: and (that we may draw near our present Sub<g ref="char:EOLhyphen"/>ject) some have bestowed their pains in setting forth the excellency of Division above Con<g ref="char:EOLhyphen"/>tention. To this purpose they tell us, if Strife and Contention were taken out of Nature,<note place="margin">Plut. <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Age<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> it would come to pass, that the Heavenly Bodies would stand still, and also that the Generation of all things should be at a stay. Furthermore they tell us, that the Law-maker of <hi>Lacedaemon</hi> allowed Ambition and Strife in the Common<g ref="char:EOLhyphen"/>wealth, as a Spur to Vertue; by procuring al<g ref="char:EOLhyphen"/>ways some Contention and Emulation among great Persons. Of the same opinion, say they,
+<pb n="10" facs="tcp:93582:8"/>was <hi>Homer,</hi> who therefore makes <hi>Agamemnon</hi> to rejoice, to see <hi>Ulysses</hi> and <hi>Achilles</hi> at great words together: amongst whom we must needs number those of our unhappy Age, who are so much for Division; such nourishers of it; so in love with it, that they cannot have any Cordial Affection for those who are for Peace and Unity: as if <hi>Division</hi> were the only sure <hi>Foundation</hi> of Church and State, and Men could not be saved unless they were contenti<g ref="char:EOLhyphen"/>ous, or, there were no other way to Heaven but through the Purgatory of Strife and De<g ref="char:EOLhyphen"/>bate: who-ever these Men have learned their Politicks of, we are sure they never learned them of Christ; who plainly teaches us, in the words of the Text, <hi>That every kingdom divided against it self is brought to desolation, and an house divided against a house falleth.</hi>
+               <note place="margin">Obser.</note> Whereby we see that <hi>Desolation is the Daughter of Division, and that the way to preserve Kingdoms, Churches, and all Soci<g ref="char:EOLhyphen"/>eties, is Peace and Unity.</hi> There is a place worth the remembrance of all, but especially all such of this great Body, who are concerned in the great business of this day; it is the saying of the Prophet <hi>Jeremiah,</hi> in his <hi>Lamentations, The anger of the Lord hath divided them.</hi>
+               <note place="margin">Lam. 4.16.</note> When Mens sins become crying, so that the sound
+<pb n="11" facs="tcp:93582:8"/>thereof reacheth Heaven, then comes <hi>the plague of Division,</hi> upon a Nation, a sure evidence of God's wrath, and way whereby he taketh vengeance upon them for their sins. It may be pertinent, in this place, to set before you some Examples and Instances of the Ruines and De<g ref="char:EOLhyphen"/>solations which Division hath wrought in the World. In <hi>Rehoboam</hi>'s Reign Division amongst Counsellours caused the rending of the Tribes, Ten from Two, and that rending ruined all. Whilst <hi>Israel</hi> was hot against <hi>Judah,</hi> and <hi>Judah</hi> against <hi>Israel,</hi> the King of <hi>Syria</hi> came and smote both. When <hi>Hircanus</hi> and <hi>Aristobulus</hi> contend<g ref="char:EOLhyphen"/>ed, this brought <hi>Pompey</hi> into <hi>Jury.</hi> Who hath not heard of the Three great Factions in <hi>Jeru<g ref="char:EOLhyphen"/>salem</hi> (when <hi>Titus Vespasian</hi> besieged that City) and knows not that these were the cause of that dreadful destruction which befel them? I pray God, <hi>London</hi> may take warning by <hi>Jerusalem.</hi> The sad fruit of Division did those two <hi>Thraci<g ref="char:EOLhyphen"/>an</hi> Brethren feel,<note place="margin">Quin. Curt.</note> who being at strife about their Kingdom, and sending for <hi>Philip</hi> of <hi>Ma<g ref="char:EOLhyphen"/>cedon</hi> to be their Arbitrator, found that, instead of carving to each his share, he took the whole unto himself. Of this great danger of Divi<g ref="char:EOLhyphen"/>sion,<note place="margin">Plut.</note>
+               <hi>Scylurus,</hi> King of the <hi>Scythians,</hi> was aware, and therefore being to leave behind him four<g ref="char:EOLhyphen"/>score
+<pb n="12" facs="tcp:93582:9"/>Sons, upon his Death-bed he called for a Quiver of Arrows to be brought unto him, which he put into his Childrens hands, one af<g ref="char:EOLhyphen"/>ter another, and willed each one to burst the same in pieces bound as it was intire and whole together, which when they had assayed to do, and putting all their strength unto it, could not effect it, but gave over; himself took out of the Quiver the Arrows aforesaid, one by one, and snapt them in twain, single as they were, with facility, declaring by this, that so long as they, like Brethren, held together their Union and Agreement, they would be invin<g ref="char:EOLhyphen"/>cible; but their Discord and Dis-union would be an occasion that they should not long con<g ref="char:EOLhyphen"/>tinue. It was Division which brought all <hi>Greece</hi> and <hi>Asia,</hi> and all the Eastern Parts of <hi>Christendom</hi> into the possession of the <hi>Turk. Ta<g ref="char:EOLhyphen"/>citus</hi> himself witnesseth, That Discord was the Destruction of our Ancestors; I pray God it may never be the Destruction of us their Po<g ref="char:EOLhyphen"/>sterity.</p>
+            <p>The very life and health of Church and State lies in Unity. <hi>Peace</hi> (to use the words of holy<note n="*" place="margin">
+                  <hi>Ignat.</hi> Ep. ad Ephes. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>Ignatius</hi>) <hi>is the Devil's bane, and tor<g ref="char:EOLhyphen"/>ment of all his Adherents:</hi> nothing is there he so
+<pb n="13" facs="tcp:93582:9"/>much fears as Concord. In the Book of the <hi>Canticles</hi> the Church is described <hi>to be terrible as an Army with Banners.</hi>
+               <note place="margin">Cant. 6.4.</note> We are all in a Christian Warfare, under our Captain the Lord Jesus, against the Devil, the World, and the Flesh; if we be united, then we are terrible to our Enemies; but if divided, we become a Prey unto them. It is not so much considerable, how many we are in number, as how well we a<g ref="char:EOLhyphen"/>gree among our selves. <hi>Melancthon</hi> perswa<g ref="char:EOLhyphen"/>ding the <hi>Dividing Protestants</hi> of his time, to Peace and Unity, illustrateth his Argument by a notable Parable of the Wolves and Dogs, who were marching onwards, to fight one against another; the substance of which, in few words, is this, That the Wolves sending forth a Master Wolfe to observe the Enemies, he returned them word that the Enemies were not one like another, and moreover, that they did march as if they were more offended at them<g ref="char:EOLhyphen"/>selves, than with them; that they kept not their Ranks, but marched disorderly, grin<g ref="char:EOLhyphen"/>ning and snarling, biting and tearin one ano<g ref="char:EOLhyphen"/>ther; by this incouraging the Wolves to march on undauntedly, with full assurance of Victo<g ref="char:EOLhyphen"/>ry. Thus it is. Let a Kingdom be never so well provided, if they cannot agree, they
+<pb n="14" facs="tcp:93582:10"/>will soon be ruined. You know what hath been said concerning the quarrel between the rest of the Members and the Stomach, and how the Body must have perished, had they not seen their Folly, and united. The Moral of it is obvious unto all, you have it in the Text: <hi>A kingdom divided against it self is brought to desolation, and an house divided against an house falleth.</hi>
+            </p>
+            <p>Let us therefore of this Kingdom, above all things, take heed of Division, let us study and en<g ref="char:EOLhyphen"/>deavour all ways of Love and Amity, Peace and Unity. May it be peculiar to this great City, not to be broken in pieces, and to abhor Sedi<g ref="char:EOLhyphen"/>tion;<note place="margin">
+                  <hi>Greg. Naz.</hi> Orat. <hi>12.</hi> quae est pri<g ref="char:EOLhyphen"/>ma de pace.</note> which <hi>Gregory Nazianzen</hi> tells us was pe<g ref="char:EOLhyphen"/>culiar to his <hi>Nazianzum.</hi> Oh that I could be any way useful to perswade you to this! <hi>Behold how good, and how pleasant it is for brethren to dwell together in Unity!</hi> You know whose saying it is, a heavenly strain of the Sweet-Singer of <hi>Israel:</hi> what intire affection he had to Peace and Unity, is evident by his manner of expres<g ref="char:EOLhyphen"/>sion, for it seems even to make his Breath poor, and his Speech unable: <hi>Behold how good, and how pleasant it is!</hi> that which is good and not pleasant may be tedious; that which is plea<g ref="char:EOLhyphen"/>sant and not good is vicious; but Peace and
+<pb n="15" facs="tcp:93582:10"/>Unity is both good and pleasant. 'Tis true of Peace and Unity in the Body politick, and as true of Unity in the House of the Church, which House, if divided, will be in danger to fall.</p>
+            <p>But alas! though every one will praise Peace and Unity, few there are who do faith<g ref="char:EOLhyphen"/>fully endeavour it: every one hath a tongue to commend it, few have Arms to embrace it, or Feet to walk in the ways of Peace. Suiters this Lady hath many, but few cordial Lovers. One hath this Lust, and another hath that; what for the Lusts of Pride, Covetousness, Malice, Envy, <hi>&amp;c.</hi> It falls out too often that Christians are no better unto one another, nor more merciful than <hi>Gideon</hi> was to the Elders of <hi>Succoth;</hi> rending and tearing the Body of <hi>Christ,</hi> with Bryars and Thorns.</p>
+            <p>How tardy the Church of <hi>Corinth,</hi> was in this particular; we read enough and too much, the <hi>Apostle</hi> calls them <hi>babes in Christ;</hi> but the <hi>old man</hi> was too strong in these infant Christi<g ref="char:EOLhyphen"/>ans: Mens Persons they had in admiration, one was for <hi>Paul,</hi> another for <hi>Apollos,</hi> a third for <hi>Cephas:</hi> 'tis very likely St. <hi>Paul,</hi> and St. <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> and the silver-tongu'd <hi>Apollos</hi> too, agreed well enough; these strings were well tun'd by
+<pb n="16" facs="tcp:93582:11"/>the <hi>Holy-Ghost,</hi> the Doctrine they received from God they delivered to the People, (to use <hi>Justin Martyr</hi>'s words,<note place="margin">Just. Mart Paraenes. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>without any Jarring or Con<g ref="char:EOLhyphen"/>tention;</hi> but the people fell out among them<g ref="char:EOLhyphen"/>selves, they had some cunning Gamesters a<g ref="char:EOLhyphen"/>mongst them, who made it their business to abuse and divide them.</p>
+            <p>For God's sake, Christians, let us have a care: may wee not in this Church of <hi>Corinth</hi> see our own Face as in a Glass? nay, are not our Fra<g ref="char:EOLhyphen"/>ctions more, our Factions stronger? I am un<g ref="char:EOLhyphen"/>willing to say what is upon publick record; but Our present Divisions, and this present occasi<g ref="char:EOLhyphen"/>on doth make it in some sort necessary for me to mention it: Concerning us it was the sad Complaint of <hi>Gregory</hi> the ninth, not spoken without some pity and compassion towards us, <hi>Oye</hi> English-men, <hi>you are the most miserable men in the World, every one of you bites each other, and studies to impoverish each other.</hi> What doth it profit us, that we live together in one place, if we be not of one mind? God more loves the Unity of Hearts than Place. Why should we give the <hi>Devil</hi> such an advantage against us? or why should we of this Kingdom, of this House, give the common Enemies cause to rejoice, to see us do their work for them, and destroy
+<pb n="17" facs="tcp:93582:11"/>one another? Are we not all satisfied in this, That all our unhappy Divisions are begun, promoted and carried on by the <hi>Roman Catho<g ref="char:EOLhyphen"/>licks?</hi> why should we then thus divide, and gratifie our mortal Enemies?<note place="margin">Euse. <hi>Eccl. Hist.</hi> lib. 8. cap. 1.</note> The <hi>Historian</hi> notes, That the Strife and Contention between the Christian <hi>Bishops,</hi> was followed (as a just Judgment of God) with that sad <hi>Dioclesian Per<g ref="char:EOLhyphen"/>secution.</hi> As there is nothing more safe than Unity, so is there nothing more dangerous than Division.</p>
+            <p>Unto what hath been said, I shall add two Arguments, tending to put an end to our Divi<g ref="char:EOLhyphen"/>sions, and bring us to Unity.</p>
+            <p>The first shall be the common Argument so much insisted upon in Scripture taken from your relation to each other; are you not Bre<g ref="char:EOLhyphen"/>thren, of the same Kingdom, of the same House, professing the same Religion? I beseech you then, <hi>love as Brethren.</hi>
+            </p>
+            <p>I know you profess to be travelling towards Heaven, all tell us they are bound for Heaven, that's the Port they are sailing to, to the land of <hi>Canaan</hi> they are travelling: say you so? hear the Patriarch <hi>Joseph,</hi> let me speak to you, as he to his Brethren, going to the land of <hi>Ca<g ref="char:EOLhyphen"/>naan, see that you fall not out by the way.</hi> Greater
+<pb n="18" facs="tcp:93582:12"/>is the Fraternity of <hi>Christ,</hi> than of Blood; he is a true Brother,<note place="margin">S. <hi>Ambr.</hi> Dom. quin<g ref="char:EOLhyphen"/>quages. Major est frater<g ref="char:EOLhyphen"/>nitas Christi, quam san<g ref="char:EOLhyphen"/>guinis; verus frater est, cujus idem spiritus &amp; vo<g ref="char:EOLhyphen"/>luntas est.</note> who hath the same Spirit and Will, as St. <hi>Ambrose</hi> well teacheth. Or if you had rather hear Father <hi>Abraham,</hi> take him for your ex<g ref="char:EOLhyphen"/>ample; when there was an unhappy Division and Difference between <hi>Lot</hi>'s Herds<g ref="char:EOLhyphen"/>men and his, and this increased so far as to cause a misunderstanding between <hi>Abraham</hi> and <hi>Lot</hi> themselves, observe how he beseecheth, how he argueth, how he pleadeth for an Ac<g ref="char:EOLhyphen"/>commodation, Agreement,<note place="margin">Gen. 13.8.</note> and Unity; <hi>Let there be no strife, I pray thee, between me and thee, between my herdmen and thy herdmen, for we be Bre<g ref="char:EOLhyphen"/>thren.</hi> Brethren they were by Birth, by Con<g ref="char:EOLhyphen"/>dition, by Profession, Brethren as Men, as Country-Men, as Kinsmen, as Religious Men. See how Father <hi>Abraham</hi>'s Arguments are framed; <hi>Let there, I pray thee, be no strife between me and thee, for we are Brethren,</hi> as Men, Men-Brethren; It is for Beasts to snarle and quarrel, to divide, to contend, not for Men-Brethren so to do; think of it, <hi>Lot,</hi> we are Bre<g ref="char:EOLhyphen"/>thren, yet in a nearer Capacity, as Country<g ref="char:EOLhyphen"/>men, of the same Nation; why then should there be such a Strife and Division between us?
+<pb n="19" facs="tcp:93582:12"/>if there be Divisions where Languages are di<g ref="char:EOLhyphen"/>vided, yet 'tis not fit it should be so between us. If this be so, yet consider we are Bre<g ref="char:EOLhyphen"/>thren, nearer than so, for we are Kinsmen, are we not united by Blood? why then should we be divided by any thing? nay farther, <hi>Lot,</hi> consider, how we have been educated in the same Calling and Occupation? have we not been Brother-Travellers, and Brethren in Af<g ref="char:EOLhyphen"/>fliction many a time? let there not then be any Strife between us. I pray thee let it not be, let us find out some expedient that there may be a Composure, and this Contention may be no longer; and if all this seem little unto thee, yet I know, <hi>Lot,</hi> thou art a pious man, one who fearest God, one who hast a Love to the true Religion, and canst not but have a Love to all who are truly religious, thou knowest what our Religion teacheth, <hi>Union not Division; Peace as well as Holiness.</hi> What a hindrance must it needs be, and disparagement to God's true Religion, when the Enemies to Piety who live about us shall see us thus strive and fall out with one another? what will they say? nay, if this be your Religion to do thus, if that teach you to be so contentious with one
+<pb n="20" facs="tcp:93582:13"/>another, whatever Religion we are of, we will not be of yours; I pray thee therefore, <hi>Lot,</hi> think of it better, let us not divide, let there be no Strife between us Brethren, professing the same Religion, serving the same God, expecting to enjoy the same Happiness in Heaven. This is the Import of <hi>Abraham</hi>'s Speech to <hi>Lot,</hi> these the Arguments he useth to compose the Diffe<g ref="char:EOLhyphen"/>rence, and put an end to the Strife between them.</p>
+            <p>And what remains but that we should put this close to our selves, and like good Children, learn this Lesson of Father <hi>Abraham,</hi> not to con<g ref="char:EOLhyphen"/>tend, not to divide, but to unite among our selves? Are you not Brethren, as Men, Bre<g ref="char:EOLhyphen"/>thren as Countrey-men, Brethren as Fellow-Citizens, Brethren as Christians, Brethren as Protestants, and have you not sometimes been Brethren in Affliction too? Let there not then be any Strife, any Division among you. I know you would be glad to have <hi>Lazarus</hi> his Portion in the other Life, to be in <hi>Abraham</hi>'s Bosom; that's a desirable, and most comfor<g ref="char:EOLhyphen"/>table place: the way is to live as <hi>Abraham</hi> did, and walk after his example, and do, what in you lies, to preserve Peace and Union in the World.</p>
+            <pb n="21" facs="tcp:93582:13"/>
+            <p> Secondly, Consider the sin of Contention and Division. This we will touch in Three Particulars.</p>
+            <p n="1">1. Division is a sin which bears a near resemblance unto theirs, who crucified the Lord of Life.<note n="*" place="margin">S. <hi>Ambr.</hi> Dom. in passione, Quid est Christus nisi veritas &amp; pax? ergo qui pro falsitate relinquit veritatem, &amp; pro cupidi<g ref="char:EOLhyphen"/>tate dirumpit charit. item, &amp; odit pacem, nihil aliu<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> facere videtur quam lapi<g ref="char:EOLhyphen"/>dare &amp; crucisi pre, &amp; oc<g ref="char:EOLhyphen"/>cidere Christum, <hi>&amp;c.</hi>
+               </note>
+               <hi>What is Christ, but truth and peace? therefore he who leaves the truth for errour, who doth break the bond of cha<g ref="char:EOLhyphen"/>rity, and hate peace, seems to do nothing else but to stone, to crucifie, to slay Christ.</hi> Was not the Soldiers sin great, who were so officious in crucifying Christ? You cannot think otherwise; yet these Soldi<g ref="char:EOLhyphen"/>ers, as bad as they were, would not break the Legs of Christ; and shall we tear the Church of Christ, by our Divisions? So long as his Body hung upon the Cross, among Thieves and Malefactors, it remained whole; and shall Christians rend it and tear it in pieces?</p>
+            <p n="2">2. Division is a sin which damps all our Comforts in this World, and renders all our Religious Duties ineffectual. What is it that sweetens all Comfort, and makes all we do acceptable unto God? Is it not Peace and Uni<g ref="char:EOLhyphen"/>ty? What sowres all, and renders all Duties ineffectual? Is it not Contention and Division?
+<pb n="22" facs="tcp:93582:14"/>Certainly it is. Peace is that superlative good without which nothing is good; the Apostle calls it <hi>the bond of peace:</hi> this is it which keeps all our Comforts. Let a Man haveall those things in the World esteemed pretious, Health, Wealth, Wife, Children, Parents, Servants, pleasant Gardens, stately Palaces: if he have all these, but Peace be not there; if he be continually in Strife and Contention, this sowres all, this turns his Gold into Dross, this turns his Wine into Vinegar, this turns his Palaces into Dun<g ref="char:EOLhyphen"/>geons, this turns his Orchards and Gardens in<g ref="char:EOLhyphen"/>to a Wilderness, and this turns his Honey into Gall. It is good Agreement, Unity, mutual Love, which doth animate, maintain, and tye Christians together, who, without it, be<g ref="char:EOLhyphen"/>come a burden to nature, and to one another: it is like the Fire in the burning Bush; it adds Lustre to them; the more it flames, the more it beautifies: this is it which puts a Grace up<g ref="char:EOLhyphen"/>on all Religious Duties; but Division and Con<g ref="char:EOLhyphen"/>tention venomes all. You hear God's Word preached, as near as you can you omit no op<g ref="char:EOLhyphen"/>portunity, you pray often, you give Alms, you receive Sacraments; 'tis well, but if you be troublesome, unpeaceable, if you be dividers
+<pb n="23" facs="tcp:93582:14"/>in God's <hi>Israel,</hi> this stains all, pollutes all, pro<g ref="char:EOLhyphen"/>fanes all. <hi>If thou bringest thy gift unto the Altar:</hi> You know who said it, and what follows. A de<g ref="char:EOLhyphen"/>lightful thing it is to hear an Instrument well tu<g ref="char:EOLhyphen"/>ned, played upon by a skilful hand, where there is a sweet Harmony among all the Strings; but how ungrateful is it, to hear an Instrument struck upon when all the Strings are out of Tune? Thus is it (as <hi>Origen</hi> well notes) where the Body of Christians have Strife,<note place="margin">
+                  <hi>Orig.</hi> Hom. <hi>26.</hi> in Num.</note> Dissentions, Divisi<g ref="char:EOLhyphen"/>ons among them, then all things are ungrate<g ref="char:EOLhyphen"/>ful, nothing is there that God accepts without Charity: pray never so much, hear never so much, if you be strings out of Tune, if for Contention, if addicted to Division, God ac<g ref="char:EOLhyphen"/>cepts of nothing you do; this makes all abo<g ref="char:EOLhyphen"/>minable unto him. Consider then how great a sin this Division is, which doth not only spoil our earthly Comforts, but is the Flye in the Oint<g ref="char:EOLhyphen"/>ment of all holy Duties, corrupting and ma<g ref="char:EOLhyphen"/>king them odious unto that God to whom we do perform them.</p>
+            <p n="3">3. Division will drive God from among us. What made <hi>Israel</hi> so happy, above all other Nations, but because they had the God of Heaven dwelling among them? Herein is the
+<pb n="24" facs="tcp:93582:15"/>happiness of a Kingdom, of a Church, of a City, of a House; blessed is the People who have God among them. Certainly it is our great concern, to do those things which may keep God with us: it is not every ordinary sin which will drive God from a People, but Divi<g ref="char:EOLhyphen"/>sion and Contention will do this; and there<g ref="char:EOLhyphen"/>fore this must needs be a grievous sin. At <hi>Salem</hi> is his Tabernacle, and that's Peace; make him that place, and he will come and take up his rest; but if we be contentious, he will be gone, but <hi>Woe be to us, if God depart from us.</hi>
+            </p>
+            <p>We know not what we do, when we con<g ref="char:EOLhyphen"/>tend with one another, and divide from one another; if we did, we would rather lay down our lives than break the Unity either of the Bo<g ref="char:EOLhyphen"/>dy Politick or Ecclesiastick. To this purpose admirable is the Example of <hi>Gregory Nazian<g ref="char:EOLhyphen"/>zen,</hi>
+               <note place="margin">Greg. <hi>presb. in vit.</hi> Greg. Naz.</note> who, when there was a contention about his being Bishop of <hi>Constantinople,</hi> desired them to cast him into the Sea, as another <hi>Jonas,</hi> that the Tempest might cease.</p>
+            <p>To conclude all; If there be any loveliness in Peace and Unity; if we have any respect for Christ and his true Religion; if any love towards our Brethren; if we would have any
+<pb n="25" facs="tcp:93582:15"/>duty, we perform, accepted of God; if we would have God abide among us, and not drive him quite away from us; if we have any love to our precious Souls, and care that they should be eternally saved; if the Kingdom, in which we live, and the Church of God have any Interest in our Affections, and are dear unto us, let us study and endeavour all ways for Peace and Unity: let us keep clear from Strife and Division, let us not bite and devour one another, for <hi>Every kingdom divided against it self is brought to desolation, and an house divided against a house, falleth.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>A Sermon preached before the Right Honourable the Lord Mayor and Aldermen of the City of <hi>London,</hi> at <hi>Guild-Hall</hi> Chapel, on <hi>Easter-Day</hi> 1689. by the same Author; Printed for <hi>W. Kettiley</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
